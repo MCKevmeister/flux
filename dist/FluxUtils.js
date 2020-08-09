@@ -654,7 +654,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	/** @license React v16.13.0
+	/** @license React v16.13.1
 	 * react.development.js
 	 *
 	 * Copyright (c) Facebook, Inc. and its affiliates.
@@ -672,7 +672,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    var _assign = __webpack_require__(7);
 	    var checkPropTypes = __webpack_require__(8);
 
-	    var ReactVersion = '16.13.0';
+	    var ReactVersion = '16.13.1';
 
 	    // The Symbol used to tag the ReactElement-like types. If there is no native Symbol
 	    // nor polyfill, then a plain number is used for performance.
